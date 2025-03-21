@@ -1,0 +1,6 @@
+@TestPrompter_HostAddress = http://localhost:5292
+
+GET {{TestPrompter_HostAddress}}/specs?model=X4710G i7
+Accept: application/json
+
+###
